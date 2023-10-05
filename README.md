@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio de github 
+Aqui estoy comprobando mis conocimientos del curso Hwenry
